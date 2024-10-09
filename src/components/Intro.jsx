@@ -3,7 +3,7 @@ import Grad from '../assets/grad.jpg';
 
 const Intro = () => {
     return (
-        <div id="intro" className="flex min-h-screen max-w-full flex-col pt-[104px]">
+        <div id="intro" className="flex max-w-full flex-col pt-[104px]">
             <div className="w-full flex justify-center">
 
                 <div className="grid grid-cols-1 place-items-center md:flex md:flex-row m-4 lg:m-14 p-6 w-full md:items-center md:justify-around max-w-[1240px]">

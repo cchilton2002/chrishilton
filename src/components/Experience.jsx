@@ -25,7 +25,7 @@ const Experience = () => {
                 
             </div>
             <div className="flex justify-center pb-14">
-                <div className="max-w-[1240px] gap-10 p-24 md:p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+                <div className="max-w-[1240px] gap-16 md:gap-10 p-6 md:p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                     {/* Cards */}
                     <div className="h-auto flex flex-col items-center bg-gray-600 text-white shadow-xl rounded-lg hover:scale-105 duration-300">
                         <img className="h-auto w-56 items-center p-4" src={Grb} alt="/" />

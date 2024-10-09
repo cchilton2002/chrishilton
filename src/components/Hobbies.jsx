@@ -20,7 +20,7 @@ const Hobbies = () => {
                     </p>
                 </div>
                 {/* Start of cards */}
-                <div className="grid gap-10 grid-cols-1 p-20 md:p-0 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
+                <div className="grid gap-16 md:gap-10 grid-cols-1 p-6 md:p-0 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
 
                     <div className="relative overflow-hidden bg-white text-black shadow-md rounded-xl h-full hover:scale-105 duration-300">
                         <div className="p-9">

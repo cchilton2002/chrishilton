@@ -8,7 +8,7 @@ import Dashrev from '../assets/dashrev.png'
 
 const Storynew = () => {
     return(
-        <div id="story" className="bg-gray-600 text-[#F5F5F5] flex h-auto max-w-full flex-col">
+        <div id="story" className="bg-gray-600 text-[#F5F5F5] flex h-auto max-w-full flex-col pb-10">
             <div className="flex flex-col p-8 w-full items-center justify-center">
                 <div className="">
                     <h1 className="text-3xl max-w-lg pb-4 font-librebask font-bold">My Story</h1>
@@ -22,7 +22,7 @@ const Storynew = () => {
                     </p>
                 </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 p-24 md:p-8 lg:p-20 items-center justify-center">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 p-6 md:p-8 lg:p-20 items-center justify-center">
 
                 <div className="p-4 mt-20 bg-[#f6f6f2] text-gray-700  shadow-xl flex flex-col rounded-lg hover:scale-105 duration-300">
                     <h2 className="text-2xl font-bold text-center py-4 font-librebask">Cardiff</h2>
