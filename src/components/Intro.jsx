@@ -9,7 +9,7 @@ const Intro = () => {
                 <div className="grid grid-cols-1 place-items-center md:flex md:flex-row m-4 lg:m-14 p-6 w-full md:items-center md:justify-around max-w-[1240px]">
                     <div className="flex flex-col">
                         <h1 className="text-4xl font-librebask">Christopher Hilton</h1>
-                        <p className="text-lg max-w-md font-nunito pt-2">A graduate from the University of Bath with a master's of Physics, excited by the prospect of a career in the technology sector.</p>
+                        <p className="text-lg max-w-md font-nunito pt-2">A master's of Physics graduate from the University of Bath, passionate about technology and ready to tackle real-world challenges in the tech sector.</p>
                     </div>
                     <div className="">
                         <img className="p-4 mt-10 md:mt-0 md:p-0 w-56 h-auto rounded-full ml" src={Grad} alt="/" />
