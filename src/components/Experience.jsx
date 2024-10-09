@@ -43,7 +43,7 @@ const Experience = () => {
 
                     <div className="h-auto flex flex-col items-center bg-gray-600 text-white shadow-xl rounded-lg hover:scale-105 duration-300">
                         <img className="h-auto w-36 items-center p-4" src={Cprog} alt="/" />
-                        <h2 className="font-bold" text-xl>C Programming Supervisor</h2>
+                        <h2 className="font-bold text-xl">C Programming Supervisor</h2>
                         <div className="p-2 ml-3 pb-8">
                             <p className="font-nunito p-2">
                                 During my research project, I had the opportunity to assist in teaching 
